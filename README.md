@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @demeesterapp-bot
 - 👀 I’m interested in using the github api
-- 🌱 I’m currently learning about porjects for [demeester.app](https://github.com/demeester-app)
+- 🌱 I’m currently learning about projects for [demeester.app](https://github.com/demeester-app)
 - 💞️ I’m looking to collaborate on all code in that project
 
 <!---
